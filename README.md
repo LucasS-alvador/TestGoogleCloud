@@ -11,9 +11,6 @@ Sistema completo de autenticação com Google OAuth usando Flask como backend e 
 ## 🚀 Instalação Rápida
 
 ### 1. Clonar/Baixar o Projeto
-```bash
-cd c:\Users\lucas\3D Objects\progs\web\login
-```
 
 ### 2. Criar e Configurar `.env`
 
